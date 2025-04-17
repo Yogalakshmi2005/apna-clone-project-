@@ -15,7 +15,7 @@ This is a clone of the Apna.co job portal, aimed at replicating its core functio
 - Development of the Minimum Viable Product (MVP) will begin soon.
 
 ## Project Plan Diagram
-Project plan diagram
+Project plan diagram(plan-diagram.png)
 
 ## Future Updates
 - UI implementation
